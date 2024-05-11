@@ -27,3 +27,12 @@ Manipulación de Diccionarios y Métodos:
 -Utiliza el método .items() para obtener una lista de tuplas con pares clave-valor del diccionario. 
 
 -Muestra cómo utilizar el método .get() para obtener el precio de un producto específico del diccionario.
+
+Datos Complejos: 
+
+-Crear una lista de diccionarios que represente información de libros (título, autor, año de publicación). 
+
+-Crear un diccionario que contenga listas como valores (por ejemplo, un diccionario de estudiantes y sus materias). 
+
+-Mostrar cómo modificar un valor en una lista dentro de un diccionario y viceversa.
+
