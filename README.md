@@ -8,7 +8,10 @@ Crear un diccionario con información de empleados (nombre, cargo, salario). Mos
 
 Manipulación de Listas y Métodos:
 
-Crea una lista inicial de números enteros. -Utiliza el método .extend() para agregar múltiples elementos a la lista. -Utiliza el método .insert() para insertar un número en una posición específica de la lista. -Muestra cómo utilizar el método .sort() para ordenar la lista de números de forma ascendente.
+Crea una lista inicial de números enteros. 
+-Utiliza el método .extend() para agregar múltiples elementos a la lista. 
+-Utiliza el método .insert() para insertar un número en una posición específica de la lista. 
+-Muestra cómo utilizar el método .sort() para ordenar la lista de números de forma ascendente.
 
 Manipulación de Diccionarios y Métodos: 
 -Crea un diccionario con información de productos (nombre del producto, precio, cantidad en stock). 
